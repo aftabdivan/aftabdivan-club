@@ -1,5 +1,6 @@
 import React from "react";
 import captainJackSparrow from "../../Images/captain-jack-sparrow.png";
+import { NavLink } from "react-router-dom";
 
 function JumboHeader() {
   return (
@@ -20,19 +21,23 @@ function JumboHeader() {
         technological, aesthetic, and functional needs.
       </p>
       <div class="d-inline-flex gap-2 mb-5">
-        <button
-          class="d-inline-flex align-items-center btn btn-primary btn-lg px-4 rounded-pill"
-          type="button"
-        >
-          Call to action
-          <i class="bi bi-arrow-right ms-2 pt-1" width="24" height="24" />
-        </button>
-        <button
-          class="btn btn-outline-secondary btn-lg px-4 rounded-pill"
-          type="button"
-        >
-          Secondary link
-        </button>
+        <NavLink to={"/about"}>
+          <button
+            class="d-inline-flex align-items-center btn btn-primary btn-lg px-4 rounded-pill"
+            type="button"
+          >
+            Click to connect
+            <i class="bi bi-arrow-right ms-2 pt-1" width="24" height="24" />
+          </button>
+        </NavLink>
+        <NavLink to={"/furniture"}>
+          <button
+            class="btn btn-outline-secondary btn-lg px-4 rounded-pill"
+            type="button"
+          >
+            See our businesses
+          </button>
+        </NavLink>
       </div>
     </div>
   );

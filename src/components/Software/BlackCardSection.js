@@ -4,15 +4,15 @@ function BlackCardSection() {
   const cardData = [
     {
       cardClassName: "h-100 p-5 text-bg-dark rounded-3",
-      cardHeading: "Change the background",
+      cardHeading: "Embark on a Digital Odyssey",
       cardPara:
-        "Swap the background-color utility and add a `.text-*` color utility to mix up the jumbotron look. Then, mix and match with additional component themes and more.",
+        "Welcome to a realm where innovation knows no bounds. Our software development expertise is your gateway to a digital odyssey, where every line of code propels your vision into new dimensions. At D-Club Connect, we transcend conventional boundaries, crafting solutions that redefine excellence.",
     },
     {
       cardClassName: "h-100 p-5 bg-body-tertiary border rounded-3",
-      cardHeading: "Add borders",
+      cardHeading: "Crafting Tomorrow's Digital Experiences",
       cardPara:
-        "Or, keep it light and add a border for some added definition to the boundaries of your content. Be sure to look under the hood at the source HTML here as we've adjusted the alignment and sizing of both column's content for equal-height.",
+        "Step into the future with D-Club Connect, where software development becomes an art form. We specialize in transforming concepts into high-performance, user-centric solutions that redefine digital excellence. Our team of adept developers is dedicated to not just meeting but surpassing your expectations.",
     },
   ];
   return (
