@@ -1,5 +1,5 @@
 import Navbar from "./components/Navbar";
-import PersonInfo from "./components/PersonInfo";
+import PersonInfo from "./components/Home/PersonInfo";
 import Footer from "./components/Footer";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Furniture from "./components/Furniture/Furniture";

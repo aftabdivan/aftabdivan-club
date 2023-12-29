@@ -1,5 +1,4 @@
 import React from "react";
-import jack from "../../Images/jack.jpg";
 
 function FurnitureSection(props) {
   return (
