@@ -9,7 +9,7 @@ import About from "./components/About/About";
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename="/d-club">
         <Navbar />
         <Routes>
           <Route path="/" exact element={<PersonInfo />} />
