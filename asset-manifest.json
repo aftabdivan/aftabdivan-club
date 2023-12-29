@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/d-club/static/css/main.82fbbdee.css",
-    "main.js": "/d-club/static/js/main.8880fb30.js",
+    "main.css": "/d-club/static/css/main.19c85b3e.css",
+    "main.js": "/d-club/static/js/main.bacf27e3.js",
     "static/media/luxury-bedroom.jpg": "/d-club/static/media/luxury-bedroom.0ae972b6782e7f3d9551.jpg",
     "static/media/mirror-furniture.jpg": "/d-club/static/media/mirror-furniture.062b7c10e0000e2a6724.jpg",
     "static/media/dinning-table.jpg": "/d-club/static/media/dinning-table.688324b32d437994332b.jpg",
@@ -19,11 +19,11 @@
     "static/media/bootstrap-icons.woff2?": "/d-club/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
     "static/media/nature-demo.jpg": "/d-club/static/media/nature-demo.a15ee947c0640a93c060.jpg",
     "index.html": "/d-club/index.html",
-    "main.82fbbdee.css.map": "/d-club/static/css/main.82fbbdee.css.map",
-    "main.8880fb30.js.map": "/d-club/static/js/main.8880fb30.js.map"
+    "main.19c85b3e.css.map": "/d-club/static/css/main.19c85b3e.css.map",
+    "main.bacf27e3.js.map": "/d-club/static/js/main.bacf27e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.82fbbdee.css",
-    "static/js/main.8880fb30.js"
+    "static/css/main.19c85b3e.css",
+    "static/js/main.bacf27e3.js"
   ]
 }
