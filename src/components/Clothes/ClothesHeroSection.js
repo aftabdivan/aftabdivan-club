@@ -1,5 +1,6 @@
 import React from "react";
 import Jack from "../../Images/jack.jpg";
+import { NavLink } from "react-router-dom";
 
 function ClothesHeroSection() {
   return (
@@ -23,12 +24,16 @@ function ClothesHeroSection() {
           pieces reflect a commitment to quality, comfort, and aesthetics.
         </p>
         <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-          <button type="button" class="btn btn-primary btn-lg px-4 gap-3">
-            Primary button
-          </button>
-          <button type="button" class="btn btn-outline-secondary btn-lg px-4">
-            Secondary
-          </button>
+          <NavLink to={"/about"}>
+            <button type="button" class="btn btn-primary btn-lg px-4 gap-3">
+              Want to say something
+            </button>
+          </NavLink>
+          <NavLink to={"/about"}>
+            <button type="button" class="btn btn-outline-secondary btn-lg px-4">
+              Connect with us
+            </button>
+          </NavLink>
         </div>
       </div>
     </div>
