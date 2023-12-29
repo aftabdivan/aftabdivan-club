@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/aftabdivan-club/static/css/main.58408dc9.css",
-    "main.js": "/aftabdivan-club/static/js/main.e8815054.js",
-    "static/media/luxury-bedroom.jpg": "/aftabdivan-club/static/media/luxury-bedroom.0ae972b6782e7f3d9551.jpg",
-    "static/media/mirror-furniture.jpg": "/aftabdivan-club/static/media/mirror-furniture.062b7c10e0000e2a6724.jpg",
-    "static/media/dinning-table.jpg": "/aftabdivan-club/static/media/dinning-table.688324b32d437994332b.jpg",
-    "static/media/whole-furniture.jpg": "/aftabdivan-club/static/media/whole-furniture.db002c6f4d7eb50d78b9.jpg",
-    "static/media/kitchen-furniture.jpg": "/aftabdivan-club/static/media/kitchen-furniture.931fc6f68b5faf61fecb.jpg",
-    "static/media/bedroom-furniture.jpg": "/aftabdivan-club/static/media/bedroom-furniture.c81a226dbc3d06b7e618.jpg",
-    "static/media/blue-suite.jpg": "/aftabdivan-club/static/media/blue-suite.a6ab5fbc6b81bce7e978.jpg",
-    "static/media/black-suite.jpg": "/aftabdivan-club/static/media/black-suite.8822ded20a50ed4b5984.jpg",
-    "static/media/jack.jpg": "/aftabdivan-club/static/media/jack.8c9ef33e5f9c14a8a640.jpg",
-    "static/media/jack-snife.jpg": "/aftabdivan-club/static/media/jack-snife.18eaa5f6406c90282913.jpg",
-    "static/media/boy-jacket.jpg": "/aftabdivan-club/static/media/boy-jacket.4418400619f643a29f49.jpg",
-    "static/media/captain-jack-sparrow.png": "/aftabdivan-club/static/media/captain-jack-sparrow.988cd283809bb83b104d.png",
-    "static/media/boy-tshirt.jpg": "/aftabdivan-club/static/media/boy-tshirt.2c06a7817073026d31bc.jpg",
-    "static/media/bootstrap-icons.woff?": "/aftabdivan-club/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
-    "static/media/bootstrap-icons.woff2?": "/aftabdivan-club/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
-    "static/media/nature-demo.jpg": "/aftabdivan-club/static/media/nature-demo.a15ee947c0640a93c060.jpg",
-    "index.html": "/aftabdivan-club/index.html",
-    "main.58408dc9.css.map": "/aftabdivan-club/static/css/main.58408dc9.css.map",
-    "main.e8815054.js.map": "/aftabdivan-club/static/js/main.e8815054.js.map"
+    "main.css": "/d-club/static/css/main.19c85b3e.css",
+    "main.js": "/d-club/static/js/main.bacf27e3.js",
+    "static/media/luxury-bedroom.jpg": "/d-club/static/media/luxury-bedroom.0ae972b6782e7f3d9551.jpg",
+    "static/media/mirror-furniture.jpg": "/d-club/static/media/mirror-furniture.062b7c10e0000e2a6724.jpg",
+    "static/media/dinning-table.jpg": "/d-club/static/media/dinning-table.688324b32d437994332b.jpg",
+    "static/media/whole-furniture.jpg": "/d-club/static/media/whole-furniture.db002c6f4d7eb50d78b9.jpg",
+    "static/media/kitchen-furniture.jpg": "/d-club/static/media/kitchen-furniture.931fc6f68b5faf61fecb.jpg",
+    "static/media/bedroom-furniture.jpg": "/d-club/static/media/bedroom-furniture.c81a226dbc3d06b7e618.jpg",
+    "static/media/blue-suite.jpg": "/d-club/static/media/blue-suite.a6ab5fbc6b81bce7e978.jpg",
+    "static/media/black-suite.jpg": "/d-club/static/media/black-suite.8822ded20a50ed4b5984.jpg",
+    "static/media/jack.jpg": "/d-club/static/media/jack.8c9ef33e5f9c14a8a640.jpg",
+    "static/media/jack-snife.jpg": "/d-club/static/media/jack-snife.18eaa5f6406c90282913.jpg",
+    "static/media/boy-jacket.jpg": "/d-club/static/media/boy-jacket.4418400619f643a29f49.jpg",
+    "static/media/captain-jack-sparrow.png": "/d-club/static/media/captain-jack-sparrow.988cd283809bb83b104d.png",
+    "static/media/boy-tshirt.jpg": "/d-club/static/media/boy-tshirt.2c06a7817073026d31bc.jpg",
+    "static/media/bootstrap-icons.woff?": "/d-club/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/d-club/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "static/media/nature-demo.jpg": "/d-club/static/media/nature-demo.a15ee947c0640a93c060.jpg",
+    "index.html": "/d-club/index.html",
+    "main.19c85b3e.css.map": "/d-club/static/css/main.19c85b3e.css.map",
+    "main.bacf27e3.js.map": "/d-club/static/js/main.bacf27e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.58408dc9.css",
-    "static/js/main.e8815054.js"
+    "static/css/main.19c85b3e.css",
+    "static/js/main.bacf27e3.js"
   ]
 }
