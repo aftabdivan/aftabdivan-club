@@ -5,7 +5,8 @@ import BlackSuite from "../../Images/black-suite.jpg";
 function ClothesSuiteSection({ customeClassName }) {
   const suitesData = [
     {
-      customeClassName: "row flex-lg-row-reverse align-items-center g-5 py-5",
+      customeClassName:
+        "row flex-lg-row-reverse align-items-center justify-content-center g-5 py-5",
       srcImage: BlueSuite,
       imageTitle: '"Azure Elegance: The Blue Suit Collection"',
       imagePara: `Step into sophistication with our exclusive "Azure Elegance"
@@ -15,7 +16,8 @@ function ClothesSuiteSection({ customeClassName }) {
             brings to any occasion.`,
     },
     {
-      customeClassName: "row flex-lg-row align-items-center g-5 py-5",
+      customeClassName:
+        "row flex-lg-row align-items-center justify-content-center g-5 py-5",
       srcImage: BlackSuite,
       imageTitle: `"Eternal Noir: The Black Suit Affair"`,
       imagePara: `Unveil the epitome of timeless style with our "Eternal Noir"
@@ -35,8 +37,8 @@ function ClothesSuiteSection({ customeClassName }) {
                 src={suiteItem.srcImage}
                 class="d-block mx-lg-auto img-fluid rounded"
                 alt="Bootstrap Themes"
-                width="700"
-                height="500"
+                width="300"
+                height="300"
                 loading="lazy"
               />
             </div>
@@ -45,20 +47,6 @@ function ClothesSuiteSection({ customeClassName }) {
                 {suiteItem.imageTitle}
               </h1>
               <p class="lead">{suiteItem.imagePara}</p>
-              <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-                <button
-                  type="button"
-                  class="btn btn-primary btn-lg px-4 me-md-2"
-                >
-                  Primary
-                </button>
-                <button
-                  type="button"
-                  class="btn btn-outline-secondary btn-lg px-4"
-                >
-                  Default
-                </button>
-              </div>
             </div>
           </div>
         );

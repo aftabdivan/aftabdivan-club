@@ -31,8 +31,16 @@ function About() {
             >
               Creator of the web
             </button>
-            <button type="button" class="btn btn-outline-secondary btn-lg px-4">
-              Secondary
+            <button
+              type="button"
+              class="btn btn-outline-secondary btn-lg px-4"
+              onClick={() =>
+                window.open(
+                  "https://aftabdivan.github.io/aftabdivan-portfolio/"
+                )
+              }
+            >
+              Mind behind it
             </button>
           </div>
         </div>

@@ -23,8 +23,16 @@ function BlackCardSection() {
             <div class={cardItem.cardClassName}>
               <h2>{cardItem.cardHeading}</h2>
               <p>{cardItem.cardPara}</p>
-              <button class="btn btn-outline-light" type="button">
-                Example button
+              <button
+                class="btn btn-outline-light"
+                type="button"
+                onClick={() =>
+                  window.open(
+                    "https://aftabdivan.github.io/aftabdivan-portfolio/"
+                  )
+                }
+              >
+                Technlogogies we worked
               </button>
             </div>
           </div>

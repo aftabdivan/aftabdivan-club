@@ -2,24 +2,25 @@ import React from "react";
 import Bedroom from "../../Images/bedroom-furniture.jpg";
 import Kitchen from "../../Images/kitchen-furniture.jpg";
 import Whole from "../../Images/whole-furniture.jpg";
+import Cat from "../../Images/cute-cat.jpg";
 
 function CardImage() {
   const cardData = [
     {
       image: Bedroom,
-      title: "Short title, long jacket",
+      title: "Sunny Chair Elegance",
       location: "Earth",
       day: "3d",
     },
     {
       image: Kitchen,
-      title: "Much longer title that wraps to multiple lines",
+      title: "Timeless Seating in Classic Kitchens",
       location: "Pakistan",
       day: "4d",
     },
     {
       image: Whole,
-      title: "Another longer title belongs here",
+      title: "Chic Comfort in a Snapshot.",
       location: "California",
       day: "5d",
     },
@@ -43,7 +44,7 @@ function CardImage() {
                   <ul class="d-flex list-unstyled mt-auto">
                     <li class="me-auto">
                       <img
-                        src="https://github.com/twbs.png"
+                        src={Cat}
                         alt="Bootstrap"
                         width="32"
                         height="32"

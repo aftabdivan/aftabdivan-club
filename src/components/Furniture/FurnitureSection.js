@@ -6,8 +6,8 @@ function FurnitureSection(props) {
       <div class="row featurette mt-4">
         <div class={props.className}>
           <h2 class="featurette-heading fw-normal lh-1">
-            First featurette heading.{" "}
-            <span class="text-body-secondary">It’ll blow your mind.</span>
+            {props.firstTitle}
+            <span class="text-body-secondary">{props.secondTitle}</span>
           </h2>
           <p class="lead">{props.furniturePara}</p>
         </div>

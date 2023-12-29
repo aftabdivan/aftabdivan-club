@@ -10,8 +10,14 @@ function SoftwareSectionHero() {
           D-Club Connect, we are dedicated to providing cutting-edge software
           solutions that redefine possibilities.
         </p>
-        <button class="btn btn-primary btn-lg" type="button">
-          Example button
+        <button
+          class="btn btn-primary btn-lg"
+          type="button"
+          onClick={() =>
+            window.open("https://aftabdivan.github.io/aftabdivan-portfolio/")
+          }
+        >
+          See our letest projects
         </button>
       </div>
     </div>
