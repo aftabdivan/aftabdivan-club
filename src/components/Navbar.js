@@ -8,6 +8,7 @@ const Navbar = () => {
     { path: "/furniture", headerTitle: "Furniture" },
     { path: "/clothes", headerTitle: "Clothes" },
     { path: "/software", headerTitle: "Software" },
+    { path: "/medical", headerTitle: "Medical" },
     { path: "/about", headerTitle: "About" },
   ];
   return (

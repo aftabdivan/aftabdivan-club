@@ -18,9 +18,6 @@ function PricingCard() {
               <li>Email support</li>
               <li>Help center access</li>
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-outline-primary">
-              Sign up for free
-            </button>
           </div>
         </div>
       </div>
@@ -39,9 +36,6 @@ function PricingCard() {
               <li>Priority email support</li>
               <li>Help center access</li>
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">
-              Get started
-            </button>
           </div>
         </div>
       </div>
@@ -60,9 +54,6 @@ function PricingCard() {
               <li>Phone and email support</li>
               <li>Help center access</li>
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">
-              Contact us
-            </button>
           </div>
         </div>
       </div>

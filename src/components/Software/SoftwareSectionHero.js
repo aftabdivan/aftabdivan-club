@@ -1,15 +1,16 @@
 import React from "react";
+import {
+  softwareSectionHeroButtonTitle,
+  softwareSectionHeroPara,
+  softwareSectionHeroTitle,
+} from "../constants";
 
 function SoftwareSectionHero() {
   return (
     <div class="p-5 mb-4 bg-body-tertiary rounded-3">
       <div class="container-fluid py-5">
-        <h1 class="display-5 fw-bold">Innovate, Transform, Thrive</h1>
-        <p class="col-md-8 fs-4">
-          Welcome to our digital realm where innovation knows no bounds. At
-          D-Club Connect, we are dedicated to providing cutting-edge software
-          solutions that redefine possibilities.
-        </p>
+        <h1 class="display-5 fw-bold">{softwareSectionHeroTitle}</h1>
+        <p class="col-md-8 fs-4">{softwareSectionHeroPara}</p>
         <button
           class="btn btn-primary btn-lg"
           type="button"
@@ -17,7 +18,7 @@ function SoftwareSectionHero() {
             window.open("https://aftabdivan.github.io/aftabdivan-portfolio/")
           }
         >
-          See our letest projects
+          {softwareSectionHeroButtonTitle}
         </button>
       </div>
     </div>

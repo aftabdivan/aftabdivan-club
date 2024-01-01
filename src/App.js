@@ -6,6 +6,7 @@ import Furniture from "./components/Furniture/Furniture";
 import Clothes from "./components/Clothes/Clothes";
 import Software from "./components/Software/Software";
 import About from "./components/About/About";
+import Medical from "./components/Medical/Medical";
 function App() {
   return (
     <div>
@@ -16,6 +17,7 @@ function App() {
           <Route path="/furniture" exact element={<Furniture />} />
           <Route path="/clothes" exact element={<Clothes />} />
           <Route path="/software" exact element={<Software />} />
+          <Route path="/medical" exact element={<Medical />} />
           <Route path="/about" exact element={<About />} />
         </Routes>
         <Footer />

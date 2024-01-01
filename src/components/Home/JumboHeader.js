@@ -1,6 +1,7 @@
 import React from "react";
 import captainJackSparrow from "../../Images/captain-jack-sparrow.png";
 import { NavLink } from "react-router-dom";
+import { homeSectionHeroHeading, homeSectionHeroPara } from "../constants";
 
 function JumboHeader() {
   return (
@@ -11,15 +12,8 @@ function JumboHeader() {
         width="100"
         height="100"
       />
-      <h1 class="text-body-emphasis">FusionMinds Guild</h1>
-      <p class="col-lg-8 mx-auto fs-5 text-muted">
-        Meet our talented quartet of friends, each excelling in their
-        professional domains: Aftab, the innovative software developer; Parvej,
-        the adept CCTV and printer specialist; Mahir, the skilled furniture
-        artisan; and Mahefuz, the creative mind behind clothing styling.
-        Together, they bring a diverse set of skills to cater to your
-        technological, aesthetic, and functional needs.
-      </p>
+      <h1 class="text-body-emphasis">{homeSectionHeroHeading}</h1>
+      <p class="col-lg-8 mx-auto fs-5 text-muted">{homeSectionHeroPara}</p>
       <div class="d-inline-flex gap-2 mb-5">
         <NavLink to={"/about"}>
           <button
