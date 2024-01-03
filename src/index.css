@@ -13,3 +13,8 @@
   height: 3rem;
   border-radius: 0.75rem;
 }
+
+.custome-background,
+.custome-background.bg-body-tertiary {
+  background-color: aliceblue !important;
+}
