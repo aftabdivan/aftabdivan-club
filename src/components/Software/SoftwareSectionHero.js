@@ -15,7 +15,7 @@ function SoftwareSectionHero() {
           class="btn btn-primary btn-lg"
           type="button"
           onClick={() =>
-            window.open("https://aftabdivan.github.io/aftabdivan-portfolio/")
+            window.open("https://aftabdivan.github.io/aftab-portfolio/")
           }
         >
           {softwareSectionHeroButtonTitle}
